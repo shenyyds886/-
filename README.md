@@ -16,7 +16,7 @@
 ## 使用方法
 
 1. 手机安装 [AutoX.js](https://github.com/kkevsekk1/AutoX/releases)(或兼容的 Auto.js Pro / Hamibot 等)
-2. 把 `1.js` 导入到脚本目录并运行
+2. 把 `Main.js` 导入到脚本目录并运行
 3. 首次运行会进入设置界面:
    - 选择左右两侧的颜色、字号
    - 选择显示模式
